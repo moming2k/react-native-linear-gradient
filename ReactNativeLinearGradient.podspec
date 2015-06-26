@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "ReactNativeLinearGradient"
-  s.version          = "0.4.4"
+  s.version          = "0.4.3.1"
   s.summary          = "A <LinearGradient> element for react-native"
   s.description      = <<-DESC
                        A <LinearGradient> component for react-native, as seen in react-native-login.
